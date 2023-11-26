@@ -1,5 +1,8 @@
 body{
     font-family: 'Oswald', sans-serif;  
+    margin: 20px;
+    padding: 20px;
+    background-color: #FFFBFF;
     
 }
 .centrar{
@@ -21,7 +24,7 @@ body{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color:#DA316F;
   }
   
   .Nav-link {
@@ -42,9 +45,12 @@ body{
   .columnas {
    
     column-count: 2;
-    column-gap: 100px;
+    column-gap: 30px;
     column-rule-style: solid;
     column-rule-width: 5px;
+    text-align: center;
+    list-style-type: none;
+    
   }
   * {
     box-sizing: border-box;
@@ -54,6 +60,8 @@ body{
     float: left;
     width: 33.33%;
     padding: 5px;
+    align-items: center;
+    
   }
   
   /* Clearfix (clear floats) */
@@ -62,3 +70,12 @@ body{
     clear: both;
     display: table;
   }
+  .c {
+    word-break: break-all;
+  }
+  h3{
+    font-family: 'Teko', sans-serif;   
+    font-size:x-large;
+    color:#EC64E8;
+  }
+ 
