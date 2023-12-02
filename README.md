@@ -1,10 +1,19 @@
-# Mi primera página Web
+# Portafolio: Tecnolochicas PRO
 
-Esta es la primera página web que desarrollo en Tecnolochicas PRO y nos dieron la oportunidad de
-hacerla con el tema que querramos, por lo tanto decidí hacerlo de "Los casi algo", ya que es un 
-tema muy actual y el cual desgraciadamente estoy pasando.
+Este proyecto fue creado durante el bootcamp de Tecnolochicas Pro, es una página web responsiva (adaptable a 
+distintos dispositivos) con el proposito de poner en práctica el uso de framwork y conocimiento del desarrollo web.
 
-Aquí quiero expresar lo que siento y compartir lo que me ha ayudado a pasar este proceso, agregando cosas
-las cuales he utilizado, así como recursos visuales como los videos de podscats de otras personas
-hablando sobre este mismo tema.
+Enfocándose en mostrar la experiencia de la desarrolladora del proyecto, en formato de portafolio en mención de 
+su perfil, sus proyectos, voluntariados y medios de contacto.
 
+## Tecnologías
+
+HTML
+CSS
+JS
+
+## Contacto
+
+Si estás interesado en colaborar con proyectos, oportunidades laborales e iniciativas, contáctame.
+
+© 2023 Valeria (Programa Technolochicas PRO)
